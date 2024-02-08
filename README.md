@@ -4,7 +4,6 @@ My name is Niels Demeyer.
 I invite you to take a look at my personal GitHub page, where I have shared some of the programming projects that I am most proud of, particularly those related to data and its management.
 - 🌍  I'm based in Ghent, Belgium 
 - 🧠  I'm learning everything data related
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love making ambient music
 ### Skills
 <p align="left">
