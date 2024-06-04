@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niels Demeyer</h1>
-<h3 align="center">A data engineer from Ghent, Belgium</h3>
+<h3 align="center">A data engineer from Belgium</h3>
 
 # personal website
 
